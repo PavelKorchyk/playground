@@ -42,3 +42,19 @@ npm install --save webpack babel-loader
 ```
 
 and add src/main.js, webpack.config.js files.
+
+
+Compile
+---
+```
+npm install webpack-command --save-dev
+npm run compile
+```
+Usage
+---
+ 
+Start the development server with this command:
+ 
+```
+npm start
+```
