@@ -35,3 +35,10 @@ to create 'package.json' file and add '.gitignore' file with 'node_modules' line
     ]
 }
 ```
+
+5. Install Webpack with 
+```
+npm install --save webpack babel-loader
+```
+
+and add src/main.js, webpack.config.js files.
